@@ -25,7 +25,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Features Section
-    subtitle: A stakepool
+    subtitle: Delegate to a stake pool with a mission.
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
