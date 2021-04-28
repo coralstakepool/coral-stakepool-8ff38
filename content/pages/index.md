@@ -27,7 +27,7 @@ sections:
     title: Features Section
     subtitle: A reliable stake pool with a mission.
     features:
-      - title: The Big Title For the Feature
+      - title: Dedicated to securing the Cardano network
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
