@@ -27,11 +27,6 @@ sections:
           During the entire nursing process, divers regularly clean the new
           corals and the nursery beds: removing algae, sediment and predators
           like snails and starfish.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - title: "3 -\_Plant back healthy corals"
