@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Adapools
         url: /pricing
-        style: primary
+        style: secondary
       - label: Pooltool.io
         url: /features
         style: secondary
