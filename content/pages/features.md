@@ -26,7 +26,7 @@ sections:
         content: >
           During the entire nursing process, divers regularly clean the new
           corals and the nursery beds: removing algae, sediment and predators
-          like snails and starfishs.
+          like snails and starfish.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
