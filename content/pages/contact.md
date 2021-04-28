@@ -15,9 +15,8 @@ sections:
     grid_items:
       - title: Telegram
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Join our telegram group & discuss the project.
         content_align: center
         actions:
           - label: Get Support
