@@ -78,6 +78,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    title: sds
 seo:
   title: Contact
   description: This is the contact page
