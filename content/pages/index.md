@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: 'Should you delegate to [CORAL]?'
     subtitle: A reliable stake pool with a mission.
     features:
       - title: Dedicated to securing the Cardano network
