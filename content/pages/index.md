@@ -42,7 +42,7 @@ sections:
           We keep pool operating costs low at 2% pool fee. You keep 98% of new
           rewards.
         actions: []
-        image: images/2%.png
+        image: images/magical-panda.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
