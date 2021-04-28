@@ -282,7 +282,7 @@ sections:
     actions:
       - label: Button
         url: /pricing
-        style: primary
+        style: secondary
         icon_position: right
     actions_position: bottom
     align: center
