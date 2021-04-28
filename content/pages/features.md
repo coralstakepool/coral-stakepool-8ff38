@@ -11,7 +11,7 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: We take a small amount of cuttings from healthy corals.
         content: >
           On the reefs we look for pieces of coral that have broken off
           naturally by waves, storms, etc. These so-called ‘corals of
