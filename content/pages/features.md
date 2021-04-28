@@ -11,7 +11,7 @@ sections:
   - type: features_section
     features:
       - title: 1 - Coral Collection
-        subtitle: We take a small amount of cuttings from healthy corals
+        subtitle: A small amount of cuttings from healthy corals is taken.
         content: >
           On the reefs we look for pieces of coral that have broken off
           naturally by waves, storms, etc. These so-called ‘corals of
