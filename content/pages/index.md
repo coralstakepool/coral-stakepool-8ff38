@@ -33,7 +33,7 @@ sections:
           levels of redundancy in our pool's infrastructure.​
         content: "We actively monitor performance to detect problems and take preventative measures, minimizing any impact\_on investment.\n"
         actions: []
-        image: images/classic/feature-1.png
+        image: images/liveview.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
