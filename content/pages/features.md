@@ -92,7 +92,12 @@ sections:
     enable_cards: false
   - type: cta_section
     title: 'With your delegation, we can help fund coral reforestation projects.'
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      50% of Coral's stake pool profits will be donated to Coral NGOs. With $500
+      donated, we can support the growth and planting of 60 to 100 coral
+      fragments. **Together, we can help restore coral reefs**, the most
+      important ecosystem in our oceans and all the marine life that depends on
+      it.
     actions:
       - label: Compare Plans
         url: /pricing
