@@ -151,7 +151,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: "In 2015, it is in Seraya Besar, a fishing village located in the region of East Nusa Tenggara in Indonesia, that the Coral Guardian team realizes the difficulties of these inhabitants to meet their needs. Indeed, they had to go fishing further and further away in order to meet the food and economic needs of their families.\n\nIn 4 years, our efforts have led to the protection of a 1,2 HA marine area, 40 000 corals transplanted, 30 times more fish on our restored area and the creation of 30 local jobs.\n\n\\---\n\nCoral Guardian is a French NGO\_acting internationally, and founded in 2012, which aims to\_protect coral reef ecosystems\_by\_implicating local communities\_and\_raising awareness\_among the general public.\n\n[Coral Guardian](https://www.coralguardian.org/)\n"
-        image: images/Coral-Guardian-Logo-1024x1024.jpeg
+        image: images/Coral-Guardian-Logo-White-380x145.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
