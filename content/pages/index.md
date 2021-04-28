@@ -31,10 +31,7 @@ sections:
         subtitle: >-
           Enterprise-class stability and performance by implementing multiple
           levels of redundancy in our pool's infrastructure.​
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "We actively monitor performance to detect problems and take preventative measures, minimizing any impact\_on investment.\n"
         actions:
           - label: Learn More
             url: /style-guide
