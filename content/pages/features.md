@@ -91,7 +91,7 @@ sections:
     background_color: secondary
     enable_cards: false
   - type: cta_section
-    title: This is a Call to Action
+    title: 'Delegate to CORAL, help us reforest the reefs'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
