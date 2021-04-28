@@ -1,5 +1,5 @@
 ---
-title: How do
+title: How do we restore coral reefs?
 sections:
   - type: hero_section
     title: Explore Features
