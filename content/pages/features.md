@@ -37,10 +37,11 @@ sections:
         media_width: fifty
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The Juvenile Corals are moved carefully to the area where we plan to
+          reforest. The plugs with the Juvenile Corals are inserted in holes
+          that we drilled in the substrate and they are firmly fixed with
+          cement.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
