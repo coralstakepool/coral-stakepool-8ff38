@@ -15,7 +15,7 @@ sections:
       - label: Pooltool.io
         url: /features
         style: secondary
-    image: images/coralb.png
+    image: images/plants.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
