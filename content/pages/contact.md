@@ -51,9 +51,8 @@ sections:
         image_has_padding: true
       - title: Email
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Contact us by email at ***coral.stakepool@gmail.com***
         content_align: center
         actions:
           - label: Get Support
