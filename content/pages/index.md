@@ -277,10 +277,8 @@ sections:
     background_image: images/en danger.jpg
   - type: cta_section
     title: 'Help us save the coral reefs, delegate to [CORAL]'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      With your delegation, we can make a difference.
     actions:
       - label: Button
         url: /pricing
