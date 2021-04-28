@@ -23,10 +23,11 @@ sections:
         media_width: fifty
       - title: 2 - Coral nurseries
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          After approximately 3 to 9 months the corals in the nurseries have
+          grown sufficiently. During the entire nursing process, divers
+          regularly clean the new corals and the nursery beds: removing algae,
+          sediment and predators like snails and starfishs.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
