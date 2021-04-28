@@ -2,7 +2,7 @@
 title: Coral Reforestation
 sections:
   - type: hero_section
-    title: How do we restore coral reefs?
+    title: How are coral reefs restored?
     subtitle: >-
       To keep it simple - we use small fragments of an existing coral colony and
       plant these fragments somewhere else, giving the colony a new living
