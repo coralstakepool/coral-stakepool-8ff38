@@ -18,13 +18,7 @@ sections:
         content: |
           Join our telegram group & discuss the project.
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/classic/icon-1.svg
         image_alt: Partnering and sponsorships icon
