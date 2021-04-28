@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: Coral is a Cardano Stake Pool
     subtitle: 50% of our profits go towards saving coral reefs
-    content: |
-      High performance setup, 
+    content: >
+      Coral is a secure, high performance stake pool. With relays in data
+      centers on 3 continents, we aim to support the Cardano network and use
+      part of the rewards towards regrowing the world's coral reefs.
     actions:
       - label: Adapools
         url: /pricing
