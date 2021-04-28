@@ -1,5 +1,5 @@
 ---
-title: Coral Reforestation - how do we do th
+title: Coral Reforestation
 sections:
   - type: hero_section
     title: Explore Features
