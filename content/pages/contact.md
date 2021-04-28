@@ -54,13 +54,7 @@ sections:
         content: |
           Contact us by email at ***coral.stakepool@gmail.com***
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/classic/icon-3.svg
         image_alt: Other queries icon
