@@ -28,7 +28,9 @@ sections:
     subtitle: A reliable stake pool with a mission.
     features:
       - title: Coral is dedicated to securing the Cardano network
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Enterprise-class stability and performance by implementing multiple
+          levels of redundancy in its infrastructure.​
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
