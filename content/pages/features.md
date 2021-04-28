@@ -24,10 +24,9 @@ sections:
       - title: 2 - Coral nurseries
         subtitle: "The corals are suspended in the middle of the water column with a constant stream of nutrients passing by and closer to the sunlight.\_ Both of these factors means the corals are in optimum conditions to grow."
         content: >
-          After approximately 3 to 9 months the corals in the nurseries have
-          grown sufficiently. During the entire nursing process, divers
-          regularly clean the new corals and the nursery beds: removing algae,
-          sediment and predators like snails and starfishs.
+          During the entire nursing process, divers regularly clean the new
+          corals and the nursery beds: removing algae, sediment and predators
+          like snails and starfishs.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
