@@ -27,7 +27,7 @@ sections:
     title: 'Should you delegate to [CORAL]?'
     subtitle: A reliable stake pool with a mission.
     features:
-      - title: Dedicated to securing the Cardano network
+      - title: Coral is dedicated to securing the Cardano network
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
