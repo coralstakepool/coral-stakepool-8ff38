@@ -146,7 +146,7 @@ sections:
 
 
           [Coral Reef Care](https://www.coralreefcare.com/)
-        image: images/eleanor-carr.png
+        image: images/coral reef care.svg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
