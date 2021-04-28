@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Get in touch
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    subtitle: Have a question? Don't hesitate to reach out!
     align: center
     padding_top: small
     padding_bottom: small
