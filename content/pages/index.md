@@ -280,7 +280,7 @@ sections:
     content: |
       With your delegation, we can make a difference.
     actions:
-      - label: Button
+      - label: Delegate to CORAL
         url: /pricing
         style: secondary
         icon_position: right
