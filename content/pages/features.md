@@ -91,7 +91,7 @@ sections:
     background_color: secondary
     enable_cards: false
   - type: cta_section
-    title: 'Delegate to CORAL, help us reforest the reefs'
+    title: 'With your delegation, we can help fund coral reforestation projects.'
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
