@@ -17,7 +17,7 @@ sections:
           fragments that have broken off naturally by waves, storms, etc. but
           still alive) are collected and transplanted onto solid structures
           placed in favourable locations for their growth.
-        image: images/about-3.jpg
+        image: images/841293.jpeg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
