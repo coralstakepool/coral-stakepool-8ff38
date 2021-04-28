@@ -1,5 +1,5 @@
 ---
-title: How do we restore coral reefs?
+title: Coral Reforestation
 sections:
   - type: hero_section
     title: Explore Features
