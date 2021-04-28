@@ -13,7 +13,7 @@ sections:
       - label: Pooltool.io
         url: /features
         style: secondary
-    image: images/coral6.png
+    image: images/coralf.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
