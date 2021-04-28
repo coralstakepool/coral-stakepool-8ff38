@@ -38,10 +38,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Simple fees & rewards
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We keep pool operating costs low at 2% pool fee. You keep 98% of new
+          rewards.
         actions:
           - label: Learn More
             url: /style-guide
