@@ -33,9 +33,8 @@ sections:
         image_has_padding: true
       - title: Twitter
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Follow us on Twitter and get the latest updates.
         content_align: center
         actions:
           - label: Get Support
