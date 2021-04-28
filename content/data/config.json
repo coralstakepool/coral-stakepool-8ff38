@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "Coral - a Cardano Stake Pool that will save coral reefs",
+        "title": "Coral - a Cardano Stake Pool to save coral reefs",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
