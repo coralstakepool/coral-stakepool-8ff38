@@ -2,7 +2,7 @@
 title: Coral Reforestation
 sections:
   - type: hero_section
-    title: Explore Features
+    title: How do we restore coral reefs?
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
