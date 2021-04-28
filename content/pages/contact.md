@@ -30,7 +30,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/classic/icon-2.svg
+        image: images/twitter.png
         image_alt: Help and support icon
         image_position: top
         image_align: center
