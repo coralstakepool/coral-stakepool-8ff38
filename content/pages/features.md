@@ -22,7 +22,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: 2 - Coral nurseries
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: "The corals are suspended in the middle of the water column with a constant stream of nutrients passing by and closer to the sunlight.\_ Both of these factors means the corals are in optimum conditions to grow."
         content: >
           After approximately 3 to 9 months the corals in the nurseries have
           grown sufficiently. During the entire nursing process, divers
