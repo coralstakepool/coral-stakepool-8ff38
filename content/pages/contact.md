@@ -30,7 +30,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/twitter.png
+        image: images/fierce-maple.png
         image_alt: Help and support icon
         image_position: top
         image_align: center
