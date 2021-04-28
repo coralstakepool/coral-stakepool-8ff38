@@ -273,7 +273,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: Corals are endangered
-    subtitle: lorem-ipsum
+    subtitle: 90% of coral reefs could disappear by 2050.
     content: >-
       ## Lorem ipsum
 
