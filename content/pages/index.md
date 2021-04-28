@@ -284,6 +284,7 @@ sections:
         url: /pricing
         style: primary
         icon_position: right
+        has_icon: true
     actions_position: bottom
     align: center
     padding_top: large
