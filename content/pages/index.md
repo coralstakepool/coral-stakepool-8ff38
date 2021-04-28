@@ -257,21 +257,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - title: Corals are endangered
     subtitle: 90% of coral reefs could disappear by 2050.
     content: "The world’s coral reefs, from the Great Barrier Reef off Australia to the Seychelles off East Africa, are in grave danger of dying out completely by mid-century.\n\nCoral reefs are damaged due to an\_**accumulation of threats resulting from human activities**. Overfishing, pollution and coastal development are at the top of the\_**list of stressors**. Others are dredged or sandblasted for their limestone or to improve access and navigational safety.\n\nIn addition,\_**long-term global changes**\_(rising sea temperatures and CO2 levels, storms)  also affect coral reefs.\n"
@@ -290,6 +275,21 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/en danger.jpg
+  - type: cta_section
+    title: This is Call To Action Section In DIY Theme!
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    actions:
+      - label: Button
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
