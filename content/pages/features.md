@@ -138,12 +138,14 @@ sections:
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          In the last 5 years we deployed 8 artificial reefs on Zanzibar. We
+          made different structures with Reef Balls and limestone. On all
+          structures we planted juvenile corals from the farm, leading to the
+          production of 50,000 juvenile corals.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          [Coral Reef Care](https://www.coralreefcare.com/)
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
