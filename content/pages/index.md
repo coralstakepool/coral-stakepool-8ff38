@@ -299,7 +299,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    background_image: images/david-clode-3Yu_RoCzS4Y-unsplash.jpg
+    background_image: images/daniel-oberg-41Wuv1xsmGM-unsplash.jpg
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
