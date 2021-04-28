@@ -36,11 +36,7 @@ sections:
         media_width: fifty
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >
-          The Juvenile Corals are moved carefully to the area where we plan to
-          reforest. The plugs with the Juvenile Corals are inserted in holes
-          that we drilled in the substrate and they are firmly fixed with
-          cement.
+        content: "After approximately 3 to 9 months the corals in the nurseries have grown sufficiently.  The corals are moved carefully to the area where we plan to reforest, to regenerate damaged sections of the reef and strengthen resilience. The corals are reattached to reefs piece by piece with cement, zip ties, and nails.\_\n"
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
