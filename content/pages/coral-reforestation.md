@@ -29,6 +29,7 @@ sections:
           like snails and starfish.
         media_position: left
         media_width: fifty
+        image: images/staghorn-nursery-tree-salt-river-stx_noaa_472.jpeg
       - title: "3 -\_Plant back healthy corals"
         subtitle: >-
           Outplanting is the process of attaching the corals back to the reef,
