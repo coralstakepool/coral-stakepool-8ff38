@@ -35,7 +35,10 @@ sections:
         media_position: left
         media_width: fifty
       - title: "3 -\_Plant back healthy corals"
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: >-
+          Outplanting is the process of attaching the corals back to the reef,
+          where they will be able to continue growing and then start
+          reproducing.
         content: "After approximately 3 to 9 months the corals in the nurseries have grown sufficiently.  The corals are moved carefully to the area where we plan to reforest, to regenerate damaged sections of the reef and strengthen resilience. The corals are reattached to reefs piece by piece with cement, zip ties, and nails.\_\n"
         image: images/about-1.jpg
         image_alt: Happy co-workers
