@@ -18,7 +18,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/telegram.png
+        image: images/2.png
         image_alt: Partnering and sponsorships icon
         image_position: top
         image_align: center
