@@ -13,9 +13,10 @@ sections:
       - title: 1 - Coral Collection
         subtitle: A small amount of cuttings from healthy corals is taken.
         content: >
-          On the reefs we look for pieces of coral that have broken off
-          naturally by waves, storms, etc. These so-called ‘corals of
-          opportunity’ we cut into smaller coral fragments.
+          At the beginning of each project, fragments of opportunity (coral
+          fragments that have broken off naturally by waves, storms, etc. but
+          still alive) are collected and transplanted onto solid structures
+          placed in favourable locations for their growth.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
