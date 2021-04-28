@@ -36,7 +36,7 @@ sections:
           where they will be able to continue growing and then start
           reproducing.
         content: "After approximately 3 to 9 months the corals in the nurseries have grown sufficiently.  The corals are moved carefully to the area where we plan to reforest, to regenerate damaged sections of the reef and strengthen resilience. The corals are reattached to reefs piece by piece with cement, zip ties, and nails.\_\n"
-        image: images/about-1.jpg
+        image: images/tnc_69045916_preview_cropped.jpeg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
