@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Coral is a Cardano Stake Pool
-    subtitle: '50% of our profits go towards saving '
+    subtitle: 50% of our profits go towards saving coral reefs
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
