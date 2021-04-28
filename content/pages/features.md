@@ -46,7 +46,7 @@ sections:
         media_width: fifty
   - type: grid_section
     title: Impa
-    subtitle: Grid Section Example
+    subtitle: Completed projects by our selected NGOs
     grid_items:
       - content: >
           In the last 5 years we deployed 8 artificial reefs on Zanzibar. We
