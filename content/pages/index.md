@@ -276,7 +276,7 @@ sections:
     type: hero_section
     background_image: images/en danger.jpg
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: 'Save the reefs, delegate to [CORAL]'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
