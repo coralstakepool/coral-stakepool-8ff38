@@ -2,7 +2,7 @@
     "title": "Coral - a Cardano Stake Pool",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "minimal",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
