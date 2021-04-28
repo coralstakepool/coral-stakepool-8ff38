@@ -11,7 +11,7 @@ sections:
       - label: Adapools
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Pooltool.io
         url: /features
         style: secondary
     image: images/classic/hero.png
