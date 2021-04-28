@@ -99,7 +99,7 @@ sections:
       important ecosystem in our oceans and all the marine life that depends on
       it.
     actions:
-      - label: Compare Plans
+      - label: Delegate to CORAL
         url: /pricing
         style: primary
     actions_position: right
