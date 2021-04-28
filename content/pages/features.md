@@ -1,5 +1,5 @@
 ---
-title: HOW DO WE DO THIS?
+title: How do
 sections:
   - type: hero_section
     title: Explore Features
