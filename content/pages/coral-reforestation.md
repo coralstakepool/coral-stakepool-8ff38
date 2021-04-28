@@ -81,7 +81,7 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
-        image_align: right
+        image_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
