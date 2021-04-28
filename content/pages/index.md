@@ -30,7 +30,7 @@ sections:
       - title: Coral is dedicated to securing the Cardano network
         subtitle: >-
           Enterprise-class stability and performance by implementing multiple
-          levels of redundancy in its infrastructure.​
+          levels of redundancy in our pool's infrastructure.​
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
