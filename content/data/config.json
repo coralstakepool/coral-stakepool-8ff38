@@ -45,7 +45,7 @@
     },
     "footer": {
         "logo": "images/classic/logo.svg",
-        "logo_alt": "DIY logo",
+        "logo_alt": "Coral Cardano Stake Pool",
         "has_primary_nav": true,
         "primary_nav_title": "Coral Stake Pool",
         "primary_nav_links": [
