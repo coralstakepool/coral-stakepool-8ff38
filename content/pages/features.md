@@ -10,7 +10,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: 1 - Coral collection
+      - title: 1 - Coral
         subtitle: A small amount of cuttings from healthy corals is taken.
         content: >
           At the beginning of each project, fragments of opportunity (coral
