@@ -42,7 +42,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/classic/icon-3.svg
+        image: images/3.png
         image_alt: Other queries icon
         image_position: top
         image_align: center
