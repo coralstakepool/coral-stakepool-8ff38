@@ -145,6 +145,25 @@ sections:
           production of 50,000 juvenile corals.
 
 
+          \---
+
+
+          Coral Reef Care is a Dutch foundation that’s mission is the
+          conservation and protection of marine ecosystems, in particular coral
+          reefs.
+
+
+          Our work consists of creating public awareness and organize local
+          marine conservation projects. CRC always works together with a local
+          NGO or research organization that has proven durability and
+          effectiveness over the years. This collaboration can result in a wide
+          variety of activities such as the restoration of damaged reefs,
+          removal of lost fishing nets on coral reefs, campaigns to reduce
+          plastic waste, creation of artificial reefs, deployment of mooring
+          buoys, creation of No Take Zones and the protection of specific marine
+          species.
+
+
           [Coral Reef Care](https://www.coralreefcare.com/)
         image: images/coral reef care.svg
         image_alt: Eleanor Carr
