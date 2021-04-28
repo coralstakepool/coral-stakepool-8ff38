@@ -282,7 +282,7 @@ sections:
     actions:
       - label: Delegate to CORAL
         url: /pricing
-        style: secondary
+        style: primary
         icon_position: right
     actions_position: bottom
     align: center
