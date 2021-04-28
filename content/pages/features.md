@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: How are coral reefs restored?
     subtitle: >-
-      To keep it simple - we use small fragments of an existing coral colony and
-      plant these fragments somewhere else, giving the colony a new living
-      environment in which it can multiply and further grow.
+      To keep it simple - fragments of an existing coral colony are cut and
+      planted somewhere else, giving the colony a new living environment in
+      which it can multiply and further grow.
     background_color: primary
   - type: features_section
     features:
