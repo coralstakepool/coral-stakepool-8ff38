@@ -21,7 +21,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: 2 - Growing coral in nurseries
+      - title: 2 - Grow coral in nurseries
         subtitle: "The corals are suspended in the middle of the water column with a constant stream of nutrients passing by and closer to the sunlight.\_ Both of these factors means the corals are in optimum conditions to grow."
         content: >
           During the entire nursing process, divers regularly clean the new
