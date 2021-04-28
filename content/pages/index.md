@@ -85,7 +85,7 @@ sections:
       - title: >-
           “The ones who are crazy enough to think that they can change the
           world, are the ones that do.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Steve Jobs
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
