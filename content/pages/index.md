@@ -32,13 +32,7 @@ sections:
           Enterprise-class stability and performance by implementing multiple
           levels of redundancy in our pool's infrastructure.​
         content: "We actively monitor performance to detect problems and take preventative measures, minimizing any impact\_on investment.\n"
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/classic/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
