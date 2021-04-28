@@ -31,7 +31,7 @@ sections:
         subtitle: >-
           Enterprise-class stability and performance by implementing multiple
           levels of redundancy in our pool's infrastructure.​
-        content: "We actively monitor performance to detect problems and take preventative measures, minimizing any impact\_on investment.\n"
+        content: "We actively monitor performance to detect problems and take preventative measures, minimizing any impact\_on investment. We have also best-in-class security to safeguard your ADA!\n"
         actions: []
         image: images/liveview.png
         image_alt: Feature 1 placeholder image
