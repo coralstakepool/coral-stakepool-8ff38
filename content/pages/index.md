@@ -272,7 +272,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - title: "Corals\_are\_endangered"
+  - title: Corals are endangered
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
